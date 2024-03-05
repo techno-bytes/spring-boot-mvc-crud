@@ -8,6 +8,7 @@ class SpringBootMvcCrudApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Test case executed......");
 	}
 
 }
